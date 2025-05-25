@@ -1,5 +1,6 @@
 # harvardx-cs50-python
-Web Programming with Python and JavaScript Course
+Repository to course CS50's Web Programming with Python and JavaScript on EDX - HarvardX
+Web Programming with Python and JavaScript.
 
-Repositorio de arquivos do curso 
+Repositorio de arquivos de aula do curso 
 
